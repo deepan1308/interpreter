@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 *.vs
+*.idea/
 # Log file
 *.log
 
